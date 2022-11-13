@@ -1,1 +1,2 @@
-# Topological Fulkerson Sort
+# Topological fulkerson Sort
+Реализация через список смежности.
